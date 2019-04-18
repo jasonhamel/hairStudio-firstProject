@@ -1,0 +1,178 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+}
+
+.color1 {
+  background-color: #fffeec;
+  height: 200px;
+  width: 100%;
+}
+
+.color2 {
+  background-color: #aeddcd;
+  height: 200px;
+  width: 100%;
+}
+
+.color3 {
+  background-color: #e4508f;
+  height: 200px;
+  width: 100%;
+}
+
+.color4 {
+  background-color: #556fb5;
+  height: 200px;
+  width: 100%;
+}
+
+.group-shot {
+  width: 100%;
+  height: auto;
+}
+
+.service-btn {
+  background: #e4508f;
+  background-image: -webkit-linear-gradient(top, #e4508f, #e4508f);
+  background-image: -moz-linear-gradient(top, #e4508f, #e4508f);
+  background-image: -ms-linear-gradient(top, #e4508f, #e4508f);
+  background-image: -o-linear-gradient(top, #e4508f, #e4508f);
+  background-image: linear-gradient(to bottom, #e4508f, #e4508f);
+  -webkit-border-radius: 21;
+  -moz-border-radius: 21;
+  border-radius: 21px;
+  text-shadow: 1px 1px 3px #000000;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 1rem;
+  padding: 10px 20px 10px 20px;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  text-decoration: none;
+}
+
+.service-btn:hover {
+  background: #ab386a;
+  text-decoration: none;
+}
+
+.product-btn {
+  background: #e4508f;
+  background-image: -webkit-linear-gradient(top, #e4508f, #e4508f);
+  background-image: -moz-linear-gradient(top, #e4508f, #e4508f);
+  background-image: -ms-linear-gradient(top, #e4508f, #e4508f);
+  background-image: -o-linear-gradient(top, #e4508f, #e4508f);
+  background-image: linear-gradient(to bottom, #e4508f, #e4508f);
+  -webkit-border-radius: 21;
+  -moz-border-radius: 21;
+  border-radius: 21px;
+  text-shadow: 1px 1px 3px #000000;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 1rem;
+  padding: 10px 20px 10px 20px;
+  position: absolute;
+  top: 20px;
+  left: 115px;
+  text-decoration: none;
+}
+
+.product-btn:hover {
+  background: #ab386a;
+  text-decoration: none;
+}
+
+.book-today-btn {
+  background: #e4508f;
+  background-image: -webkit-linear-gradient(top, #e4508f, #e4508f);
+  background-image: -moz-linear-gradient(top, #e4508f, #e4508f);
+  background-image: -ms-linear-gradient(top, #e4508f, #e4508f);
+  background-image: -o-linear-gradient(top, #e4508f, #e4508f);
+  background-image: linear-gradient(to bottom, #e4508f, #e4508f);
+  -webkit-border-radius: 21;
+  -moz-border-radius: 21;
+  border-radius: 21px;
+  text-shadow: 1px 1px 3px #000000;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 1rem;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: absolute;
+  top: 20px;
+  left: 215px;
+}
+
+.book-today-btn:hover {
+  background: #ab386a;
+  text-decoration: none;
+}
+
+.second-section {
+  background-color: #3e3e3e;
+  padding-top: 50px;
+  width: 100%;
+  height: 700px;
+}
+
+.individual-shot {
+  height: 175px;
+  width: auto;
+  border-radius: 50%;
+
+}
+
+.person1 {
+  position: relative;
+  top: 30px;
+  left: 30px;
+  width: 179px;
+  margin-right: 0px;
+}
+
+.person2 {
+  position: relative;
+  top: 60px;
+  left: 30px;
+  width: 179px;
+  margin-right: 0px;
+}
+
+.person3 {
+  position: relative;
+  top: 90px;
+  left: 30px;
+  width: 179px;
+  margin-right: 0px;
+}
+
+.person4 {
+  position: relative;
+  top: -513px;
+  left: 450px;
+  width: 179px;
+  margin-right: 0px;
+}
+
+.person5 {
+  position: relative;
+  top: -483px;
+  left: 450px;
+  width: 179px;
+  margin-right: 0px;
+}
+
+.person6 {
+  position: relative;
+  top: -453px;
+  left: 450px;
+  width: 179px;
+  margin-right: 0px;
+}
